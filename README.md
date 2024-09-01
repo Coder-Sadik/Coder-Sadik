@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Md. Sadik Rahman 
-- 👀 I’m interested in Competitive Programming and web development 
-- 🌱 I’m currently learning Competitive Programming and web development 
-- 💞️ I’m looking to collaborate on .
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development 
 - 📫 Contact with me at facebook: https://www.facebook.com/sadik.r.027/
 
 <!---
