@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Sadik Rahman 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently working on MERN Stack
 - 📫 Contact with me at facebook: https://www.facebook.com/sadik.r.027/
 
 <!---
