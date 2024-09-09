@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="200" src="https://images.app.goo.gl/RukqddfFop6LgRRR7"  />
-</div>
 
 ###
 
