@@ -112,19 +112,19 @@
 
 <p align="center">
   <a href="https://x.com/SadikRa72105522" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-SadikRa72105522-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" height="38" />
+    <img src="https://skillicons.dev/icons?i=x" height="46" alt="X (Twitter)" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@flash27s" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-@flash27s-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube" height="38" />
+    <img src="https://skillicons.dev/icons?i=youtube" height="46" alt="YouTube" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://discord.com/users/sadik07308" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-sadik07308-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Connect on Discord" height="38" />
+    <img src="https://skillicons.dev/icons?i=discord" height="46" alt="Discord" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:srahman2702@gmail.com">
-    <img src="https://img.shields.io/badge/Email-srahman2702@gmail.com-00F2FE?style=for-the-badge&logo=gmail&logoColor=black" alt="Send an Email" height="38" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="46" alt="Gmail" />
   </a>
 </p>
 
