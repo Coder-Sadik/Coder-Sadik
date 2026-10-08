@@ -1,12 +1,12 @@
 <div align="center">
 
   <!-- ==================== 1. ANIMATED HEADER BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:00F2FE&height=220&section=header&text=Sadik%20Rahman&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Shopify%20%26%20CMS%20Specialist%20%E2%80%A2%20Builder&descAlignY=62&descAlign=50" alt="Sadik Rahman Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:00F2FE&height=220&section=header&text=Sadik%20Rahman&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Shopify%20and%20CMS%20Specialist%20%E2%80%A2%20Builder&descAlignY=62&descAlign=50" alt="Sadik Rahman Banner" width="100%" />
 
   <br />
 
   <a href="https://github.com/Coder-Sadik">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=580&height=48&lines=%E2%9A%A1+MERN+Stack+Web+Developer;%F0%9F%9B%8D%EF%B8%8F+Shopify+%26+E-Commerce+Specialist;%F0%9F%8C%90+Squarespace+%26+Wix+Architect;%F0%9F%9A%80+Scalable+Full-Stack+Web+Solutions" alt="Typing SVG Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=580&height=48&lines=%E2%9A%A1+MERN+Stack+Web+Developer;%F0%9F%9B%8D%EF%B8%8F+Shopify+and+E-Commerce+Specialist;%F0%9F%8C%90+Squarespace+and+Wix+Architect;%F0%9F%9A%80+Scalable+Full-Stack+Web+Solutions" alt="Typing SVG Tagline" />
   </a>
 
   <br />
