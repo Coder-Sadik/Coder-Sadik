@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- ==================== 1. ANIMATED HEADER BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:00F2FE&height=220&section=header&text=Sadik%20Rahman&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Shopify%20and%20CMS%20Specialist%20%E2%80%A2%20Builder&descAlignY=62&descAlign=50" alt="Sadik Rahman Banner" width="100%" />
+  <!-- ==================== 1. ANIMATED AQUARELLE HEADER BANNER ==================== -->
+  <a href="https://github.com/Coder-Sadik">
+    <img src="https://raw.githubusercontent.com/Coder-Sadik/Coder-Sadik/main/assets/header.svg" alt="Sadik Rahman Banner" width="100%" />
+  </a>
 
   <br />
 
@@ -132,15 +134,9 @@
 
 ---
 
-<!-- ==================== 8. FOOTER ==================== -->
+<!-- ==================== 8. ANIMATED AQUARELLE FOOTER ==================== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:00F2FE&height=110&section=footer" alt="Footer Wave" width="100%" />
-
-  <p align="center">
-    <i>"Crafting seamless e-commerce storefronts and scalable full-stack MERN applications."</i>
-    <br />
-    <b><a href="https://github.com/Coder-Sadik">Sadik Rahman</a></b> • © 2026
-  </p>
+  <img src="https://raw.githubusercontent.com/Coder-Sadik/Coder-Sadik/main/assets/footer.svg" alt="Footer Banner" width="100%" />
 
 </div>
