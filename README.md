@@ -140,7 +140,7 @@
   <p align="center">
     <i>"Crafting seamless e-commerce storefronts and scalable full-stack MERN applications."</i>
     <br />
-    Designed with ⚡ by <b><a href="https://github.com/Coder-Sadik">Sadik Rahman</a></b> • © 2026
+    <b><a href="https://github.com/Coder-Sadik">Sadik Rahman</a></b> • © 2026
   </p>
 
 </div>
